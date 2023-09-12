@@ -1,1 +1,4 @@
-# Le-isso-Lucas
+# Alunos:
+- João Gabriel de Oliveira Magalhães
+- Lucas Viana
+
